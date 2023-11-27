@@ -27,5 +27,6 @@ public class AlphaNumberSpecial {
         }
 
         System.out.println("UpperCase : " +upper +" LowerCase : " +lower +" Number : " +number +" Special : " +special);
+        sc.close();
     }
 }
